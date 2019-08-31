@@ -1,0 +1,3 @@
+﻿hướng dẫn sử dụng:
+- cách cài đặt: giải nén file ss.zip vào mục htdocs trong xampp, tạo csdl tên là surveysite và import file sql
+- cách truy cập: để truy cập trang web gõ link: localhost/surveysite
